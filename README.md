@@ -33,3 +33,23 @@ DBMS：OpenGauss 2.0.0
 2.web
 
 包含前端网页以及数据库搭建方法
+
+![1](fig/1.png)
+
+![2](fig/2.png)
+
+![3](fig/3.png)
+
+![4](fig/4.png)
+
+![5](fig/5.png)
+
+![6](fig/6.png)
+
+![7](fig/e7.png)
+
+![8](fig/8.png)
+
+![9](fig/9.png)
+
+![10](fig/10.png)
